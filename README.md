@@ -7,7 +7,7 @@
 
 ***
 
-[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushkx&show_icons=true&theme=dark&count_private=true)](https://github.com/ayushkx/github-readme-stats)           [![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkx&theme=radical)](https://github.com/ayushkx/github-readme-stats) 
+[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushkx&show_icons=true&theme=dark&count_private=true)](https://github.com/ayushkx/github-readme-stats)           [![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkx&exclude_repo=Fruit_detector,ipl_analysis&theme=radical)](https://github.com/ayushkx/github-readme-stats) 
 
 ***
 ### Tech Stack
